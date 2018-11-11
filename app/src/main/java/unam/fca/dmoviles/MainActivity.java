@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
 
-        //Actividades
+        //Actividades JESUS MAGAÑA
         //a) Revisa la url de referencia y el archivo AndroidManifest.xml, que tipo de informacion puede recibir la app?
         //b) Ejecuta la aplicacion en modo de depuracion, la primera vez que se ejecuta la app, que valor tiene Intent.ACTION_SEND?
         //c) Prueba compartiendo una imagen del navegador Chrome
